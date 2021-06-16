@@ -20,8 +20,8 @@ body {
     margin-right: auto;
     display: block;
     align-content: center;
-    block-size: 120px;
-    padding: 0px;
+    block-size: 140px;
+    padding: 6px;
 }
 
 .title {
