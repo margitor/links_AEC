@@ -3,11 +3,11 @@
 }
 
 body {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .container {
-    background-color: #fcf9e0;
+    background-color: #f7efad;
     box-shadow: 9px 9px 12px -5px rgba(202, 202, 202, 0.75);
     -webkit-box-shadow: 9px 9px 12px -5px rgba(202, 202, 202, 0.75);
     -moz-box-shadow: 9px 9px 12px -5px rgba(202, 202, 202, 0.75);
@@ -34,7 +34,7 @@ body {
 
 h1 {
     color: #696A6F;
-    font-size: 8px;
+    font-size: 6px;
 }
 
 .container-fluid {
